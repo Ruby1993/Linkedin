@@ -16,6 +16,11 @@ Generally, there are two issues during the process.
   keep all letters in lower-case
   remove punctuation
   remove stop words
-- word 
+  remove addtional spaces
+- Word frequency and co-occurance analysis
+- Graphics mapping
+  job distribution in selected cities
+  skill sets frequency indexed significance
+  key words cloud mapping
  
 
