@@ -11,5 +11,11 @@ Generally, there are two issues during the process.
   
 #### Text Mining on the positions information
 - Preprocessing:
-  remove
+  Nan Value removal
+  Stop words list creation
+  keep all letters in lower-case
+  remove punctuation
+  remove stop words
+- word 
+ 
 
