@@ -42,10 +42,12 @@ For the required skills and knowledge, statistics, database, modeling, sql, and 
 ![pic1](graph/WordCloud.png )
 
 **Topic Analysis**
+
 From the topic analysis, the expected technical skills are sql, statistics, model, tableau, python. Also, the experience also plays a huge part in decisions from employers.
 
 https://rawgit.com/Ruby1993/Linkedin/master/vis/index.html
 
 **Sentiment Analysis**
+
 Based on the job descirption, most posts are purely positive, and only find two negative words in 1000 posts collected.
 
