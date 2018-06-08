@@ -1,7 +1,7 @@
 # Text mining on Data analyst job informaiton
 
 ## Overview
-In order to get reqired details related to data analyst position, I plan to scrape the job post info from the linkedin, and implement text mining to understand the general or perferrable requrements from the employers.
+In order to get required details related to data analyst position, I plan to scrape the job post info from the linkedin, and implement text mining to understand the general or perferrable requrements from the employers.
 
 ##### Web scraping all the data analyst positions - Python
 Generally, there are two issues during the process.
